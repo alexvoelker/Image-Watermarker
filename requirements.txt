@@ -1,2 +1,4 @@
-numpy
-tkinter
+numpy==1.24.3
+protobuf==4.23
+Pillow==9.5.0
+screeninfo==0.8.1
