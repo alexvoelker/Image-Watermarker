@@ -1,13 +1,13 @@
+import os
+
+# Install the requirements for this program if they aren't already installed.
+os.system("pip3 install -r requirements.txt")
+
 import tkinter
 from tkinter import *
 from tkinter import filedialog
 from PIL import Image, ImageTk
 from screeninfo import get_monitors
-
-import os
-
-# Install the requirements for this program if they aren't already installed.
-os.system("pip3 install -r requirements.txt")
 
 # ---------------- Global Variables ---------------- #
 
